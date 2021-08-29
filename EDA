@@ -11,3 +11,24 @@ Bir dizi değer üzerinde veri analizi yapmak için aynı sütundaki değerlerin
 GroupBy method *
 
 https://towardsdatascience.com/exploratory-data-analysis-eda-python-87178e35b14
+
+DATA VISUALIZATION
+
+Numerical vs. Numerical
+1. Scatterplot
+2. Line plot
+3. Heatmap for correlation
+4. Joint plot
+
+Categorical vs. Numerical
+1. Bar chart
+2. Violin plot
+3. Categorical box plot
+4.Swarm plot
+
+Two Categorical Variables
+1. Bar chart
+2. Grouped bar chart
+3. Point plot
+
+
