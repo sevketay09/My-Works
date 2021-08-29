@@ -1,0 +1,13 @@
+# Data Cleaning
+Missing Values
+Incorrect Format
+Incorrect Headers
+Anomalies/Outliers
+
+Standardizing Values
+Bir dizi değer üzerinde veri analizi yapmak için aynı sütundaki değerlerin aynı ölçekte olduğundan emin olmalıyız. 
+Örneğin, veriler farklı şirketlerin arabalarının en yüksek hız değerlerini içeriyorsa, tüm sütun ya metre/sn ölçeğinde ya da mil/sn ölçeğinde olmalıdır.
+
+GroupBy method *
+
+https://towardsdatascience.com/exploratory-data-analysis-eda-python-87178e35b14
